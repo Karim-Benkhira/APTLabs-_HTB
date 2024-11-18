@@ -1,7 +1,7 @@
 <h2>I have successfully completed the Hack The Box Pro Labs: APTLabs, an advanced training program designed to simulate real-world Advanced Persistent Threat (APT) scenarios.</h2>
             <p>Through this program, I gained hands-on experience in:</p>
             <pre>
-        ✅Active Directory enumeration & exploitation
+         ✅Active Directory enumeration & exploitation
 
             ✅Ability to compromise networks without using any CVEs
 
